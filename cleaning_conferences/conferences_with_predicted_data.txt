@@ -1,0 +1,710 @@
+""Proceedings of the IEEE Computer Society Conference on Computer  Vision and Pattern Recognition"" ;240 ; 6.1375577590364525
+""CBMS-NSF Regional Conference Series in Applied Mathematics"" ;2 ; 1.3211364209142868
+""Proceedings of the IEEE International Conference on Computer Vision"" ;172 ; 4.7614373767158344
+""Proceedings - 2016 43rd International Symposium on Computer Architecture"," ISCA 2016"" ;11 ; 1.50327000092731
+""2015 IEEE Radar Conference - Proceedings"" ;1 ; 1.3008993564683953
+""IEEE Symposium on VLSI Circuits"," Digest of Technical Papers"" ;7 ; 1.422321743143744
+""Proceedings - IEEE Symposium on Security and Privacy"" ;91 ; 3.1222351565986264
+""Proceedings - International Symposium on Computer Architecture"" ;98 ; 3.2638946077198665
+""Proceedings of the Annual ACM Symposium on Theory of Computing"" ;83 ; 2.9603386410314947
+""2015 IEEE Workshop on Automatic Speech Recognition and Understanding"," ASRU 2015 - Proceedings"" ;13 ; 1.5437441298190928
+""2015 IEEE 21st International Symposium on High Performance Computer Architecture"," HPCA 2015"" ;19 ; 1.6651665164944416
+""BMVC 2014 - Proceedings of the British Machine Vision Conference 2014"" ;17 ; 1.6246923876026587
+""Proceedings of the ACM SIGMOD International Conference on Management of Data"" ;135 ; 4.01266599221785
+""MM 2014 - Proceedings of the 2014 ACM Conference on Multimedia"" ;20 ; 1.6854035809403332
+""Proceedings of HPTCDL 2014: 1st Workshop for High Performance Technical Computing in Dynamic Languages - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;4 ; 1.3616105498060698
+""31st International Conference on Machine Learning"," ICML 2014"" ;22 ; 1.7258777098321159
+""Proceedings of the 9th European Conference on Computer Systems"," EuroSys 2014"" ;14 ; 1.5639811942649842
+""AllThingsCellular 2014 - Proceedings of the 4th ACM Workshop on All Things Cellular: Operations", Applications," and Challenges"" ;6 ; 1.4020846786978527
+""Proceedings - Annual IEEE Symposium on Foundations of Computer Science"," FOCS"" ;69 ; 2.6770197387890144
+""33rd International Conference on Machine Learning"," ICML 2016"" ;26 ; 1.8068259676156817
+""Proceedings of the VLDB Endowment"" ;95 ; 3.2031834143821922
+""Proceedings - 2016 IEEE European Symposium on Security and Privacy"," EURO S and P 2016"" ;9 ; 1.462795872035527
+""WWW 2014 - Proceedings of the 23rd International Conference on World Wide Web"" ;24 ; 1.7663518387238988
+""Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems"" ;72 ; 2.7377309321266887
+""Proceedings of the 5th ACM Symposium on Cloud Computing"," SOCC 2014"" ;12 ; 1.5235070653732015
+""Proceedings of the 4th Workshop on Data analytics at sCale"," DanaC 2015 - in conjunction with ACM SIGMOD/PODS Conference 2015"" ;2 ; 1.3211364209142868
+""Proceedings - International Symposium on High-Performance Computer Architecture"" ;67 ; 2.6365456098972313
+""Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"" ;139 ; 4.093614250001416
+""ACL-IJCNLP 2015 - 53rd Annual Meeting of the Association for Computational Linguistics and 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing"," Proceedings of the Conference - Short Papers"" ;1 ; 1.3008993564683953
+""Optical Fiber Communication Conference"," OFC 2015"" ;1 ; 1.3008993564683953
+""Proceedings of the Annual International Symposium on Microarchitecture"," MICRO"" ;95 ; 3.2031834143821922
+""Future of Software Engineering"," FOSE 2014 - Proceedings"" ;12 ; 1.5235070653732015
+""33rd International Conference on Machine Learning"," ICML 2016"" ;20 ; 1.6854035809403332
+""2015 IEEE/ACM International Conference on Computer-Aided Design"," ICCAD 2015"" ;1 ; 1.3008993564683953
+""Proceedings of DataCloud 2014: 5th International Workshop on Data Intensive Computing in the Clouds - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;2 ; 1.3211364209142868
+""Near Surface Geoscience 2015 - 21st European Meeting of Environmental and Engineering Geophysics"" ;4 ; 1.3616105498060698
+""International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS"" ;73 ; 2.75796799657258
+""EC 2014 - Proceedings of the 15th ACM Conference on Economics and Computation"" ;12 ; 1.5235070653732015
+""ITiCSE-WGP 2015 - Proceedings of the 2015 ITiCSE Conference on Working Group Reports"" ;4 ; 1.3616105498060698
+""Proceedings - IEEE International Conference on Robotics and Automation"" ;143 ; 4.174562507784982
+""Bolyai Society Mathematical Studies"" ;8 ; 1.4425588075896356
+""CACS 2015 - 2015 CACS International Automatic Control Conference"" ;2 ; 1.3211364209142868
+""Proceedings of the Annual International Conference on Mobile Computing and Networking"," MOBICOM"" ;132 ; 3.951954798880176
+""Proceedings of the ACM Conference on Computer and Communications Security"" ;131 ; 3.9317177344342844
+""20th Pacific Symposium on Biocomputing"," PSB 2015"" ;8 ; 1.4425588075896356
+""Proceedings of the Annual IEEE Conference on Computational Complexity"" ;34 ; 1.9687224831828134
+""Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms"" ;81 ; 2.9198645121397115
+""Proceedings of the 10th European Conference on Computer Systems"," EuroSys 2015"" ;11 ; 1.50327000092731
+""Proceedings of the 2014 1st International Conference on 5G for Ubiquitous Connectivity"," 5GU 2014"" ;3 ; 1.3413734853601782
+""Proceedings of the Romanian Academy Series A - Mathematics Physics Technical Sciences Information Science"" ;21 ; 1.7056406453862245
+""EMNLP 2014 - 2014 Conference on Empirical Methods in Natural Language Processing"," Proceedings of the Conference"" ;25 ; 1.7865889031697901
+""Proceedings - IEEE INFOCOM"" ;201 ; 5.348312245646687
+""Abel Symposia"" ;3 ; 1.3413734853601782
+""IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops"" ;53 ; 2.353226707654751
+""2015 Information Theory and Applications Workshop"," ITA 2015 - Conference Proceedings"" ;7 ; 1.422321743143744
+""12th Workshop on Analytic Algorithmics and Combinatorics 2015"," ANALCO 2015"" ;3 ; 1.3413734853601782
+""HotSDN 2014 - Proceedings of the ACM SIGCOMM 2014 Workshop on Hot Topics in Software Defined Networking"" ;17 ; 1.6246923876026587
+""2016 IEEE 23rd International Conference on Software Analysis", Evolution, and Reengineering," SANER 2016"" ;1 ; 1.3008993564683953
+""CoNEXT 2014 - Proceedings of the 2014 Conference on Emerging Networking Experiments and Technologies"" ;13 ; 1.5437441298190928
+""IEEE-RAS International Conference on Humanoid Robots"" ;22 ; 1.7258777098321159
+""Conference Record of the Annual ACM Symposium on Principles of Programming Languages"" ;77 ; 2.838916254356146
+""ITCS 2015 - Proceedings of the 6th Innovations in Theoretical Computer Science"" ;8 ; 1.4425588075896356
+""Proceedings of the ACM SIGCOMM Internet Measurement Conference"," IMC"" ;75 ; 2.798442125464363
+""Proceedings of the 8th International Conference on Weblogs and Social Media"," ICWSM 2014"" ;18 ; 1.64492945204855
+""SIGCOMM 2014 - Proceedings of the 2014 ACM Conference on Special Interest Group on Data Communication"" ;24 ; 1.7663518387238988
+""WWW 2015 - Proceedings of the 24th International Conference on World Wide Web"" ;18 ; 1.64492945204855
+""International Conference for High Performance Computing", Networking, Storage and Analysis," SC"" ;32 ; 1.9282483542910305
+""FPGA 2015 - 2015 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays"" ;8 ; 1.4425588075896356
+""Proceedings - 2014 Power Systems Computation Conference"," PSCC 2014"" ;10 ; 1.4830329364814185
+""Proceedings - Symposium on Logic in Computer Science"" ;56 ; 2.4139379009924253
+""Proceedings of Co-HPC 2014: 1st International Workshop on Hardware-Software Co-Design for High Performance Computing - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;1 ; 1.3008993564683953
+""ITCS 2014 - Proceedings of the 2014 Conference on Innovations in Theoretical Computer Science"" ;11 ; 1.50327000092731
+""IEEE Symposium on Mass Storage Systems and Technologies"" ;19 ; 1.6651665164944416
+""Proceedings - 2014 Workshop on Fault Diagnosis and Tolerance in Cryptography"," FDTC 2014"" ;6 ; 1.4020846786978527
+""AVEC 2014 - Proceedings of the 4th International Workshop on Audio/Visual Emotion Challenge"," Workshop of MM 2014"" ;10 ; 1.4830329364814185
+""IEEE International Conference on Intelligent Robots and Systems"" ;90 ; 3.101998092152735
+""HotMiddlebox 2015 - Proceedings of the 2015 ACM SIGCOMM Workshop on Hot Topics in Middleboxes and Network Function Virtualization"," Part of SIGCOMM 2015"" ;7 ; 1.422321743143744
+""SCA 2014 - Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation"" ;9 ; 1.462795872035527
+""MM 2015 - Proceedings of the 2015 ACM Multimedia Conference"" ;16 ; 1.6044553231567673
+""2014 IEEE Workshop on Spoken Language Technology"," SLT 2014 - Proceedings"" ;5 ; 1.3818476142519611
+""FPGA 2016 - Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays"" ;6 ; 1.4020846786978527
+""AVEC 2016 - Proceedings of the 6th International Workshop on Audio/Visual Emotion Challenge"," co-located with ACM Multimedia 2016"" ;6 ; 1.4020846786978527
+""ACM SoCC 2015 - Proceedings of the 6th ACM Symposium on Cloud Computing"" ;10 ; 1.4830329364814185
+""WSDM 2015 - Proceedings of the 8th ACM International Conference on Web Search and Data Mining"" ;15 ; 1.5842182587108757
+""WSDM 2014 - Proceedings of the 7th ACM International Conference on Web Search and Data Mining"" ;19 ; 1.6651665164944416
+""L@S 2014 - Proceedings of the 1st ACM Conference on Learning at Scale"" ;13 ; 1.5437441298190928
+""Pacific Symposium on Biocomputing 2016"," PSB 2016"" ;5 ; 1.3818476142519611
+""Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"" ;93 ; 3.1627092854904095
+""2014 IEEE Workshop on Spoken Language Technology"," SLT 2014 - Proceedings"" ;13 ; 1.5437441298190928
+""HSCC 2014 - Proceedings of the 17th International Conference on Hybrid Systems: Computation and Control (Part of CPS Week)"" ;10 ; 1.4830329364814185
+""MADiMa 2016 - Proceedings of the 2nd International Workshop on Multimedia Assisted Dietary Management"," co-located with ACM Multimedia 2016"" ;4 ; 1.3616105498060698
+""Proceedings - International Conference on Data Engineering"" ;123 ; 3.7698212188671527
+""22nd European Meeting of Environmental and Engineering Geophysics"," Near Surface Geoscience 2016"" ;2 ; 1.3211364209142868
+""1st International Workshop on Rapid Continuous Software Engineering"," RCoSE 2014 - Proceedings"" ;4 ; 1.3616105498060698
+""Proceedings - 3rd International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security"," BADGERS 2014"" ;3 ; 1.3413734853601782
+""European Solid-State Circuits Conference"" ;31 ; 1.9080112898451391
+""Society of Petroleum Engineers - SPE Reservoir Simulation Symposium 2015"" ;6 ; 1.4020846786978527
+""Proceedings - Design Automation Conference"" ;105 ; 3.4055540588411066
+""WODA+PERTEA 2014: Joint 12th International Workshop on Dynamic Analysis and Workshop on Software and System Performance Testing", Debugging," and Analytics - Proceedings"" ;1 ; 1.3008993564683953
+""Proceedings of the Annual ACM Symposium on Principles of Distributed Computing"" ;62 ; 2.535360287667774
+""MobiSys 2014 - Proceedings of the 12th Annual International Conference on Mobile Systems", Applications," and Services"" ;16 ; 1.6044553231567673
+""Proceedings of the Joint Meeting of the 23rd EACSL Annual Conference on Computer Science Logic", CSL 2014 and the 29th Annual ACM/IEEE Symposium on Logic in Computer Science," LICS 2014"" ;10 ; 1.4830329364814185
+""Proceedings of the National Conference on Artificial Intelligence"" ;98 ; 3.2638946077198665
+""Proceedings - International Conference on Distributed Computing Systems"" ;74 ; 2.778205061018472
+""UbiComp 2014 - Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing"" ;20 ; 1.6854035809403332
+""Proceedings of the 2014 IEEE International Symposium on Hardware-Oriented Security and Trust"," HOST 2014"" ;12 ; 1.5235070653732015
+""HPDC 2014 - Proceedings of the 23rd International Symposium on High-Performance Parallel and Distributed Computing"" ;11 ; 1.50327000092731
+""Proceedings of the 17th International Symposium on Principles and Practice of Declarative Programming"," PPDP 2015"" ;5 ; 1.3818476142519611
+""2014 13th Annual Mediterranean Ad Hoc Networking Workshop"," MED-HOC-NET 2014"" ;7 ; 1.422321743143744
+""PASC 2016 - Proceedings of the Platform for Advanced Scientific Computing Conference"" ;2 ; 1.3211364209142868
+""SIGIR 2014 - Proceedings of the 37th International ACM SIGIR Conference on Research and Development in Information Retrieval"" ;24 ; 1.7663518387238988
+""33rd International Conference on Machine Learning"," ICML 2016"" ;7 ; 1.422321743143744
+""CPSS 2015 - Proceedings of the 1st ACM Workshop on Cyber-Physical System Security"," Part of ASIACCS 2015"" ;6 ; 1.4020846786978527
+""ASIA CCS 2014 - Proceedings of the 9th ACM Symposium on Information"," Computer and Communications Security"" ;14 ; 1.5639811942649842
+""2016 Optical Fiber Communications Conference and Exhibition"," OFC 2016"" ;12 ; 1.5235070653732015
+""2015 International Symposium on Network Coding"," NetCod 2015"" ;4 ; 1.3616105498060698
+""ISPASS 2014 - IEEE International Symposium on Performance Analysis of Systems and Software"" ;11 ; 1.50327000092731
+""Proceedings of the International Conference on Artificial Intelligence and Law"" ;28 ; 1.8473000965074646
+""SIMULTECH 2014 - Proceedings of the 4th International Conference on Simulation and Modeling Methodologies"," Technologies and Applications"" ;2 ; 1.3211364209142868
+""Proceedings of the 2015 IEEE International Symposium on Hardware-Oriented Security and Trust"," HOST 2015"" ;7 ; 1.422321743143744
+""Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"" ;12 ; 1.5235070653732015
+""IJCAI International Joint Conference on Artificial Intelligence"" ;102 ; 3.3448428655034323
+""2015 IEEE Electric Ship Technologies Symposium"," ESTS 2015"" ;8 ; 1.4425588075896356
+""30th AAAI Conference on Artificial Intelligence"," AAAI 2016"" ;19 ; 1.6651665164944416
+""Proceedings of the Annual Conference of the International Speech Communication Association"," INTERSPEECH"" ;49 ; 2.272278449871185
+""Proceedings of the International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)"" ;90 ; 3.101998092152735
+""RecSys 2014 - Proceedings of the 8th ACM Conference on Recommender Systems"" ;17 ; 1.6246923876026587
+""IEEE International Symposium on Information Theory - Proceedings"" ;71 ; 2.717493867680797
+""ITCS 2016 - Proceedings of the 2016 ACM Conference on Innovations in Theoretical Computer Science"" ;6 ; 1.4020846786978527
+""ICN 2014 - Proceedings of the 1st International Conference on Information-Centric Networking"" ;12 ; 1.5235070653732015
+""MobiSys 2015 - Proceedings of the 13th Annual International Conference on Mobile Systems", Applications," and Services"" ;16 ; 1.6044553231567673
+""9th International Symposium on Software Engineering for Adaptive and Self-Managing Systems"," SEAMS 2014 - Proceedings"" ;10 ; 1.4830329364814185
+""Proceedings - 2015 IEEE Winter Conference on Applications of Computer Vision"," WACV 2015"" ;13 ; 1.5437441298190928
+""Proceedings of the Annual ACM Symposium on Principles of Distributed Computing"" ;5 ; 1.3818476142519611
+""Proceedings of the ACM SIGPLAN International Conference on Functional Programming"," ICFP"" ;47 ; 2.2318043209794025
+""WWW 2015 - Proceedings of the 24th International Conference on World Wide Web"" ;1 ; 1.3008993564683953
+""2015 IEEE/ACM International Conference on Computer-Aided Design"," ICCAD 2015"" ;10 ; 1.4830329364814185
+""2015 IEEE 16th Workshop on Control and Modeling for Power Electronics"," COMPEL 2015"" ;8 ; 1.4425588075896356
+""Proceedings - 2014 Power Systems Computation Conference"," PSCC 2014"" ;5 ; 1.3818476142519611
+""Annual ACM Symposium on Parallelism in Algorithms and Architectures"" ;38 ; 2.0496707409663792
+""DBPL 2015 - Proceedings of the 15th Symposium on Database Programming Languages"" ;3 ; 1.3413734853601782
+""Proceedings - 2014 IEEE Asian Solid-State Circuits Conference"," A-SSCC 2014"" ;6 ; 1.4020846786978527
+""14th International Conference on the Principles of Knowledge Representation and Reasoning"," KR 2014"" ;12 ; 1.5235070653732015
+""IISWC 2014 - IEEE International Symposium on Workload Characterization"" ;10 ; 1.4830329364814185
+""Operating Systems Review (ACM)"" ;90 ; 3.101998092152735
+""Principles of Knowledge Representation and Reasoning: Proceedings of the 15th International Conference"," KR 2016"" ;7 ; 1.422321743143744
+""PEPM 2015 - Proceedings of the 2015 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation"," co-located with POPL 2015"" ;4 ; 1.3616105498060698
+""MCS 2015 - Proceedings of the 6th International Workshop on Mobile Cloud Computing and Services"," co-located with MobiCom 2015"" ;3 ; 1.3413734853601782
+""ACM/IEEE International Conference on Human-Robot Interaction"" ;21 ; 1.7056406453862245
+""ASIACCS 2015 - Proceedings of the 10th ACM Symposium on Information"," Computer and Communications Security"" ;12 ; 1.5235070653732015
+""2016 IEEE 32nd International Conference on Data Engineering"," ICDE 2016"" ;9 ; 1.462795872035527
+""Proceedings - 2014 3rd European Workshop on Software-Defined Networks"," EWSDN 2014"" ;11 ; 1.50327000092731
+""2014 IEEE International Conference on Smart Grid Communications"," SmartGridComm 2014"" ;12 ; 1.5235070653732015
+""MMCommons 2015 - Proceedings of the 2015 Workshop on Community-Organized Multimodal Mining: Opportunities for Novel Solutions"," co-located with ACM MM 2015"" ;3 ; 1.3413734853601782
+""2014 Formal Methods in Computer-Aided Design"," FMCAD 2014"" ;7 ; 1.422321743143744
+""2014 IEEE Globecom Workshops"," GC Wkshps 2014"" ;17 ; 1.6246923876026587
+""2015 IEEE International Conference on Computational Photography"," ICCP 2015 - Proceedings"" ;6 ; 1.4020846786978527
+""CIKM 2014 - Proceedings of the 2014 ACM International Conference on Information and Knowledge Management"" ;20 ; 1.6854035809403332
+""EC 2015 - Proceedings of the 2015 ACM Conference on Economics and Computation"" ;7 ; 1.422321743143744
+""IS'2012 - 2012 6th IEEE International Conference Intelligent Systems"," Proceedings"" ;6 ; 1.4020846786978527
+""Proceedings of the Computer Security Foundations Workshop"" ;55 ; 2.393700836546534
+""ICMR 2014 - Proceedings of the ACM International Conference on Multimedia Retrieval 2014"" ;13 ; 1.5437441298190928
+""SIGCOMM 2016 - Proceedings of the 2016 ACM Conference on Special Interest Group on Data Communication"" ;13 ; 1.5437441298190928
+""THERMINIC 2015 - 21st International Workshop on Thermal Investigations of ICs and Systems"" ;3 ; 1.3413734853601782
+""Proceedings - SCA 2015: 14th ACM SIGGRAPH / Eurographics Symposium on Computer Animation"" ;6 ; 1.4020846786978527
+""2015 IEEE International Symposium on Dynamic Spectrum Access Networks"," DySPAN 2015"" ;6 ; 1.4020846786978527
+""2014 IEEE Winter Conference on Applications of Computer Vision"," WACV 2014"" ;15 ; 1.5842182587108757
+""AllThingsCellular 2015 - Proceedings of the 5th Workshop on All Things Cellular: Operations", Applications and Challenges," Part of SIGCOMM 2015"" ;5 ; 1.3818476142519611
+""CSWS 2014 - Proceedings of the ACM SIGCOMM 2014 Workshop on Capacity Sharing Workshop"" ;4 ; 1.3616105498060698
+""22nd International Congress on Sound and Vibration"," ICSV 2015"" ;1 ; 1.3008993564683953
+""AGERE 2015 - Proceedings of the 5th International Workshop on Programming Based on Actors", Agents,"and Decentralized Control"" ;2 ; 1.3211364209142868
+""2014 IEEE Globecom Workshops"," GC Wkshps 2014"" ;9 ; 1.462795872035527
+""2nd IEEE Workshop on Wide Bandgap Power Devices and Applications"," WiPDA 2014"" ;9 ; 1.462795872035527
+""2014 IEEE International Conference on Communications Workshops"," ICC 2014"" ;15 ; 1.5842182587108757
+""WSDM 2016 - Proceedings of the 9th ACM International Conference on Web Search and Data Mining"" ;10 ; 1.4830329364814185
+""VISIGRAPP 2016 - Proceedings of the 11th Joint Conference on Computer Vision"," Imaging and Computer Graphics Theory and Applications - Doctoral Consortium"" ;1 ; 1.3008993564683953
+""10th International Workshop on Data Management on New Hardware"," DaMoN 2014 - In Conjunction with the ACM SIGMOD/PODS Conference"" ;5 ; 1.3818476142519611
+""2015 European Conference on Mobile Robots"," ECMR 2015 - Proceedings"" ;5 ; 1.3818476142519611
+""SenSys 2015 - Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems"" ;13 ; 1.5437441298190928
+""Proceedings of the 18th International Conference on Hybrid Systems: Computation and Control"," HSCC 2015"" ;8 ; 1.4425588075896356
+""Proceedings International Conference on Automated Planning and Scheduling"," ICAPS"" ;13 ; 1.5437441298190928
+""Proceedings of WORKS 2014: The 9th Workshop on Workflows in Support of Large-Scale Science - held in conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;1 ; 1.3008993564683953
+""2015 IEEE Energy Conversion Congress and Exposition"," ECCE 2015"" ;13 ; 1.5437441298190928
+""Uncertainty in Artificial Intelligence - Proceedings of the 30th Conference"," UAI 2014"" ;10 ; 1.4830329364814185
+""CPP 2016 - Proceedings of the 5th ACM SIGPLAN Conference on Certified Programs and Proofs"," co-located with POPL 2016"" ;4 ; 1.3616105498060698
+""Proceedings - Euromicro Conference on Real-Time Systems"" ;49 ; 2.272278449871185
+""2014 IEEE World Forum on Internet of Things"," WF-IoT 2014"" ;17 ; 1.6246923876026587
+""Proceedings - 2015 IEEE International Symposium on Predictive Control of Electrical Drives and Power Electronics"," PRECEDE 2015"" ;5 ; 1.3818476142519611
+""12th IEEE International Symposium on Safety", Security and Rescue Robotics," SSRR 2014 - Symposium Proceedings"" ;1 ; 1.3008993564683953
+""ICASSP", IEEE International Conference on Acoustics," Speech and Signal Processing - Proceedings"" ;119 ; 3.688872961083587
+""Proceedings of the 17th International Conference on Advanced Robotics"," ICAR 2015"" ;6 ; 1.4020846786978527
+""2014 52nd Annual Allerton Conference on Communication", Control, and Computing," Allerton 2014"" ;6 ; 1.4020846786978527
+""2015 14th International Conference on ITS Telecommunications"," ITST 2015"" ;2 ; 1.3211364209142868
+""Proceedings of 2015 International Conference on Biometrics"," ICB 2015"" ;9 ; 1.462795872035527
+""Proceedings - 2014 International Workshop on Secure Internet of Things"," SIoT 2014"" ;2 ; 1.3211364209142868
+""COSN 2014 - Proceedings of the 2014 ACM Conference on Online Social Networks"" ;7 ; 1.422321743143744
+""Proceedings of the 15th International Middleware Conference"," Middleware 2014"" ;9 ; 1.462795872035527
+""Proceedings of the International Conference on Dependable Systems and Networks"" ;56 ; 2.4139379009924253
+""HSCC 2016 - Proceedings of the 19th International Conference on Hybrid Systems: Computation and Control"" ;5 ; 1.3818476142519611
+""13th Workshop on Analytic Algorithmics and Combinatorics 2016"," ANALCO 2016"" ;2 ; 1.3211364209142868
+""HotWireless 2014 - Proceedings of the 1st ACM MobiCom Workshop on Hot Topics in Wireless"" ;5 ; 1.3818476142519611
+""2014 IEEE International Conference on Pervasive Computing and Communications"," PerCom 2014"" ;14 ; 1.5639811942649842
+""ISPASS 2015 - IEEE International Symposium on Performance Analysis of Systems and Software"" ;5 ; 1.3818476142519611
+""Proceedings of the 19th International Workshop on Web and Databases"," WebDB 2016"" ;2 ; 1.3211364209142868
+""2015 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference"," ISGT 2015"" ;10 ; 1.4830329364814185
+""2016 IEEE Winter Conference on Applications of Computer Vision"," WACV 2016"" ;10 ; 1.4830329364814185
+""WCPR 2014 - Proceedings of the 2014 Workshop on Computational Personality Recognition"," Workshop of MM 2014"" ;5 ; 1.3818476142519611
+""Proceedings of the 7th ACM Symposium on Cloud Computing"," SoCC 2016"" ;5 ; 1.3818476142519611
+""Proceedings of the Conference on Object-Oriented Programming Systems", Languages, and Applications," OOPSLA"" ;67 ; 2.6365456098972313
+""2015 Tyrrhenian International Workshop on Digital Communications"," TIWDC 2015"" ;3 ; 1.3413734853601782
+""Proceedings of the 15th Workshop on Mobile Computing Systems and Applications"," HotMobile 2014"" ;10 ; 1.4830329364814185
+""CODASPY 2015 - Proceedings of the 5th ACM Conference on Data and Application Security and Privacy"" ;8 ; 1.4425588075896356
+""2014 52nd Annual Allerton Conference on Communication", Control, and Computing," Allerton 2014"" ;11 ; 1.50327000092731
+""2015 IEEE 1st International Conference on Direct Current Microgrids"," ICDCM 2015"" ;9 ; 1.462795872035527
+""2016 Joint International EUROSOI Workshop and International Conference on Ultimate Integration on Silicon"," EUROSOI-ULIS 2016"" ;4 ; 1.3616105498060698
+""VEE 2015 - Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments"" ;2 ; 1.3211364209142868
+""IEEE SSCI 2014 - 2014 IEEE Symposium Series on Computational Intelligence - CIEL 2014: 2014 IEEE Symposium on Computational Intelligence in Ensemble Learning"," Proceedings"" ;3 ; 1.3413734853601782
+""AutomotiveUI 2014 - 6th International Conference on Automotive User Interfaces and Interactive Vehicular Applications"," in Cooperation with ACM SIGCHI - Proceedings"" ;6 ; 1.4020846786978527
+""Proceedings - International Conference on Software Engineering"" ;118 ; 3.6686358966376957
+""EuCNC 2014 - European Conference on Networks and Communications"" ;10 ; 1.4830329364814185
+""19th Power Systems Computation Conference"," PSCC 2016"" ;5 ; 1.3818476142519611
+""Proceedings - 2015 International Symposium on Theoretical Aspects of Software Engineering"," TASE 2015"" ;1 ; 1.3008993564683953
+""2014 IEEE International Workshop on Information Forensics and Security"," WIFS 2014"" ;7 ; 1.422321743143744
+""Frontiers in Statistical Quality Control 10"" ;3 ; 1.3413734853601782
+""IEEE Conference on Computatonal Intelligence and Games"," CIG"" ;11 ; 1.50327000092731
+""New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale", Openness and Trust - Proceedings of the 19th International Conference on Electronic Publishing," Elpub 2015"" ;2 ; 1.3211364209142868
+""2014 IEEE PES Innovative Smart Grid Technologies Conference"," ISGT 2014"" ;10 ; 1.4830329364814185
+""2015 Proceedings of the International Conference on Embedded Software"," EMSOFT 2015"" ;5 ; 1.3818476142519611
+""Proceedings - Winter Simulation Conference"" ;45 ; 2.1913301920876194
+""2014 IEEE Global Communications Conference"," GLOBECOM 2014"" ;20 ; 1.6854035809403332
+""2015 IEEE International Conference on RFID"," RFID 2015"" ;8 ; 1.4425588075896356
+""Proceedings of International Conference on Frontiers in Handwriting Recognition"," ICFHR"" ;13 ; 1.5437441298190928
+""Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering"" ;19 ; 1.6651665164944416
+""Expressive 2015: Joint Symposium of Computational Aesthetics", CAe, Non-Photorealistic Animation and Rendering, NPAR, Sketch-Based Interfaces and Modeling," SBIM"" ;2 ; 1.3211364209142868
+""Proceedings - 14th IEEE/ACM International Symposium on Cluster", Cloud, and Grid Computing," CCGrid 2014"" ;14 ; 1.5639811942649842
+""Parallel Architectures and Compilation Techniques - Conference Proceedings"," PACT"" ;59 ; 2.4746490943300996
+""Proceedings - 10th International Symposium on Software Engineering for Adaptive and Self-Managing Systems"," SEAMS 2015"" ;8 ; 1.4425588075896356
+""2014 Information Theory and Applications Workshop"," ITA 2014 - Conference Proceedings"" ;8 ; 1.4425588075896356
+""SenSys 2014 - Proceedings of the 12th ACM Conference on Embedded Networked Sensor Systems"" ;11 ; 1.50327000092731
+""Leibniz International Proceedings in Informatics"," LIPIcs"" ;26 ; 1.8068259676156817
+""IEEE Workshop on Signal Processing Advances in Wireless Communications"," SPAWC"" ;30 ; 1.8877742253992476
+""2016 IEEE International Conference on Computational Photography"," ICCP 2016 - Proceedings"" ;4 ; 1.3616105498060698
+""Proceedings of the 10th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment"," AIIDE 2014"" ;5 ; 1.3818476142519611
+""IEEE/ACM International Conference on Computer-Aided Design"," Digest of Technical Papers"" ;80 ; 2.8996274476938204
+""2015 European Control Conference"," ECC 2015"" ;9 ; 1.462795872035527
+""2015 4th International Workshop on Optical Wireless Communications"," IWOW 2015"" ;6 ; 1.4020846786978527
+""2016 IEEE Information Theory Workshop"," ITW 2016"" ;4 ; 1.3616105498060698
+""Advances in Mathematical Fluid Mechanics - Dedicated to Giovanni Paolo Galdi on the Occasion of His 60th Birthday"" ;2 ; 1.3211364209142868
+""Optical Fiber Communication Conference"," OFC 2015"" ;16 ; 1.6044553231567673
+""Proceedings of the 9th International Conference on Web and Social Media"," ICWSM 2015"" ;13 ; 1.5437441298190928
+""Proceedings - 2014 International Conference on 3D Vision"," 3DV 2014"" ;9 ; 1.462795872035527
+""SA 2016 - SIGGRAPH ASIA 2016 Courses"" ;2 ; 1.3211364209142868
+""Society of Petroleum Engineers - SPE Hydraulic Fracturing Technology Conference"," HFTC 2016"" ;6 ; 1.4020846786978527
+""Proceedings of the 3rd ACM SIGPLAN Program Protection and Reverse Engineering Workshop 2014"," PPREW 2014"" ;4 ; 1.3616105498060698
+""2016 IEEE International Conference on Communications"," ICC 2016"" ;10 ; 1.4830329364814185
+""HotPOST 2016 - Proceedings of the 8th MobiHoc International Workshop on Hot Topics in Planet-Scale mObile computing and online Social Networking"" ;2 ; 1.3211364209142868
+""NAACL HLT 2015 - 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"," Proceedings of the Conference"" ;18 ; 1.64492945204855
+""2014 IEEE Global Communications Conference"," GLOBECOM 2014"" ;12 ; 1.5235070653732015
+""2015 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"," WASPAA 2015"" ;7 ; 1.422321743143744
+""Proceedings of the 8th International Conference on Computational Plasticity - Fundamentals and Applications"," COMPLAS 2015"" ;1 ; 1.3008993564683953
+""ASIA CCS 2016 - Proceedings of the 11th ACM Asia Conference on Computer and Communications Security"" ;8 ; 1.4425588075896356
+""Physics of Reactors 2016"," PHYSOR 2016: Unifying Theory and Experiments in the 21st Century"" ;4 ; 1.3616105498060698
+""UbiComp 2015 - Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing"" ;19 ; 1.6651665164944416
+""2016 IEEE Real-Time and Embedded Technology and Applications Symposium"," RTAS 2016 - Proceedings"" ;7 ; 1.422321743143744
+""Proceedings of the 13th ACM Workshop on Hot Topics in Networks"," HotNets 2014"" ;10 ; 1.4830329364814185
+""2015 IEEE International Conference on Pervasive Computing and Communications"," PerCom 2015"" ;9 ; 1.462795872035527
+""76th EAGE Conference and Exhibition 2014"," Workshops"" ;3 ; 1.3413734853601782
+""3rd International Workshop on Green and Sustainable Software"," GREENS 2014 - Proceedings"" ;4 ; 1.3616105498060698
+""HT 2014 - Proceedings of the 25th ACM Conference on Hypertext and Social Media"" ;9 ; 1.462795872035527
+""2015 IEEE Compound Semiconductor Integrated Circuit Symposium"," CSICS 2015"" ;7 ; 1.422321743143744
+""IEEE Pacific Visualization Symposium"" ;13 ; 1.5437441298190928
+""Eurographics Workshop on 3D Object Retrieval"," EG 3DOR"" ;20 ; 1.6854035809403332
+""2014 3rd International Workshop in Optical Wireless Communications"," IWOW 2014"" ;6 ; 1.4020846786978527
+""IEEE Intelligent Vehicles Symposium"," Proceedings"" ;61 ; 2.5151232232218828
+""Real-Time Technology and Applications - Proceedings"" ;40 ; 2.090144869858162
+""Data Compression Conference Proceedings"" ;46 ; 2.211567256533511
+""2015 IEEE International Conference on Communication Workshop"," ICCW 2015"" ;15 ; 1.5842182587108757
+""Mathematics and Computations", Supercomputing in Nuclear Applications and Monte Carlo International Conference," M and C+SNA+MC 2015"" ;4 ; 1.3616105498060698
+""SLE 2016 - Proceedings of the 2016 ACM SIGPLAN International Conference on Software Language Engineering"," co-located with SPLASH 2016"" ;4 ; 1.3616105498060698
+""GECCO 2015 - Proceedings of the 2015 Genetic and Evolutionary Computation Conference"" ;11 ; 1.50327000092731
+""IH and MMSec 2014 - Proceedings of the 2014 ACM Information Hiding and Multimedia Security Workshop"" ;7 ; 1.422321743143744
+""Proceedings - 2015 International Conference on 3D Vision"," 3DV 2015"" ;7 ; 1.422321743143744
+""WiSec 2014 - Proceedings of the 7th ACM Conference on Security and Privacy in Wireless and Mobile Networks"" ;8 ; 1.4425588075896356
+""Proceedings of the 2014 6th International Conference on Mobile Computing", Applications and Services," MobiCASE 2014"" ;5 ; 1.3818476142519611
+""2014 International Conference on Hardware/Software Codesign and System Synthesis"," CODES+ISSS 2014"" ;10 ; 1.4830329364814185
+""IEEE SSCI 2014: 2014 IEEE Symposium Series on Computational Intelligence - CIDUE 2014: 2014 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments"," Proceedings"" ;3 ; 1.3413734853601782
+""Advances in Modal Logic"" ;7 ; 1.422321743143744
+""2014 Proceedings of the International Conference on Embedded Software"," EMSOFT 2014"" ;9 ; 1.462795872035527
+""Proceedings of WACCPD 2014: 1st Workshop on Accelerator Programming Using Directives - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;4 ; 1.3616105498060698
+""ISWC 2015 - Proceedings of the 2015 ACM International Symposium on Wearable Computers"" ;9 ; 1.462795872035527
+""Proceedings of the 2014 IEEE Congress on Evolutionary Computation"," CEC 2014"" ;15 ; 1.5842182587108757
+""Society of Petroleum Engineers - SPE Low Perm Symposium"" ;6 ; 1.4020846786978527
+""Proceedings - 11th International Conference on Wearable and Implantable Body Sensor Networks"," BSN 2014"" ;9 ; 1.462795872035527
+""5th IEEE Photonics Society Optical Interconnects Conference"," OI 2016"" ;5 ; 1.3818476142519611
+""Proceedings - 2016 IEEE 1st International Conference on Internet-of-Things Design and Implementation"," IoTDI 2016"" ;5 ; 1.3818476142519611
+""2015 IEEE Conference on Network Function Virtualization and Software Defined Network"," NFV-SDN 2015"" ;6 ; 1.4020846786978527
+""2014 IEEE Information Theory Workshop"," ITW 2014"" ;8 ; 1.4425588075896356
+""HPDC 2015 - Proceedings of the 24th International Symposium on High-Performance Parallel and Distributed Computing"" ;9 ; 1.462795872035527
+""2014 International Conference on the Internet of Things"," IOT 2014"" ;6 ; 1.4020846786978527
+""Proceedings of the 2014 9th International Conference on Cognitive Radio Oriented Wireless Networks and Communications"," CROWNCOM 2014"" ;12 ; 1.5235070653732015
+""CCSW 2015 - Proceedings of the 7th ACM Cloud Computing Security Workshop"," co-located with: CCS 2015"" ;2 ; 1.3211364209142868
+""SCC 2014 - Proceedings of the 2nd International Workshop on Security in Cloud Computing"" ;3 ; 1.3413734853601782
+""Proceedings of the 5th ACM Multimedia Systems Conference"," MMSys 2014"" ;9 ; 1.462795872035527
+""MobiSys 2016 - Proceedings of the 14th Annual International Conference on Mobile Systems", Applications," and Services"" ;7 ; 1.422321743143744
+""13th International Conference on Autonomous Agents and Multiagent Systems"," AAMAS 2014"" ;15 ; 1.5842182587108757
+""2015 12th Annual IEEE International Conference on Sensing", Communication, and Networking," SECON 2015"" ;6 ; 1.4020846786978527
+""MCS 2014 - Proceedings of the 5th International Workshop on Mobile Cloud Computing and Services"," Co-located with MobiSys 2014"" ;3 ; 1.3413734853601782
+""Proceedings of the International Conference on Document Analysis and Recognition"," ICDAR"" ;56 ; 2.4139379009924253
+""2016 IEEE International Conference on Communications Workshops"," ICC 2016"" ;7 ; 1.422321743143744
+""Proceedings - International Workshop on Software Protection"," SPRO 2015"" ;3 ; 1.3413734853601782
+""2016 50th Annual Conference on Information Systems and Sciences"," CISS 2016"" ;5 ; 1.3818476142519611
+""ASE 2014 - Proceedings of the 29th ACM/IEEE International Conference on Automated Software Engineering"" ;14 ; 1.5639811942649842
+""FOGA 2015 - Proceedings of the 2015 ACM Conference on Foundations of Genetic Algorithms XIII"" ;5 ; 1.3818476142519611
+""ICMI 2014 - Proceedings of the 2014 International Conference on Multimodal Interaction"" ;12 ; 1.5235070653732015
+""Symposium on Software Defined Networking (SDN) Research"," SOSR 2015"" ;7 ; 1.422321743143744
+""3rd International Workshop on Graph Data Management Experiences and Systems"," GRADES 2015 - co-located with SIGMOD/PODS 2015"" ;3 ; 1.3413734853601782
+""EG-ICE 2015 - 22nd Workshop of the European Group of Intelligent Computing in Engineering"" ;2 ; 1.3211364209142868
+""BuildSys 2014 - Proceedings of the 1st ACM Conference on Embedded Systems for Energy-Efficient Buildings"" ;10 ; 1.4830329364814185
+""Conference Record - International Conference on Communications"" ;105 ; 3.4055540588411066
+""Proceedings - 19th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems"," MODELS 2016"" ;5 ; 1.3818476142519611
+""Proceedings of the Conference on Object-Oriented Programming Systems", Languages, and Applications," OOPSLA"" ;5 ; 1.3818476142519611
+""Proceedings of the International Parallel and Distributed Processing Symposium"," IPDPS"" ;20 ; 1.6854035809403332
+""ACM SIGGRAPH 2015 Emerging Technologies"," SIGGRAPH 2015"" ;4 ; 1.3616105498060698
+""2015 IEEE International Workshop on Applied Measurements for Power Systems"," AMPS 2015 - Proceedings"" ;4 ; 1.3616105498060698
+""IEEE International Conference on Cloud Computing"," CLOUD"" ;18 ; 1.64492945204855
+""2015 IEEE Electrical Power and Energy Conference: Smarter Resilient Power Systems"," EPEC 2015"" ;4 ; 1.3616105498060698
+""Symposium on Software Defined Networking (SDN) Research"," SOSR 2016"" ;5 ; 1.3818476142519611
+""Proceedings - 2014 IEEE International Conference on Cloud Engineering"," IC2E 2014"" ;12 ; 1.5235070653732015
+""3rd Underwater Communications and Networking Conference"," Ucomms 2016"" ;3 ; 1.3413734853601782
+""ICMR 2016 - Proceedings of the 2016 ACM International Conference on Multimedia Retrieval"" ;6 ; 1.4020846786978527
+""WebSci 2014 - Proceedings of the 2014 ACM Web Science Conference"" ;10 ; 1.4830329364814185
+""2016 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems", MSCPES 2016 - Held as Part of CPS Week," Proceedings"" ;3 ; 1.3413734853601782
+""IEEE/IFIP NOMS 2014 - IEEE/IFIP Network Operations and Management Symposium: Management in a Software Defined World"" ;15 ; 1.5842182587108757
+""2014 11th International Symposium on Wireless Communications Systems"," ISWCS 2014 - Proceedings"" ;12 ; 1.5235070653732015
+""ITW 2015 - 2015 IEEE Information Theory Workshop"" ;5 ; 1.3818476142519611
+""SOAP 2015 - Proceedings of the 4th ACM SIGPLAN International Workshop on State of the Art in Program Analysis"," co-located with PLDI 2015"" ;3 ; 1.3413734853601782
+""SSRR 2015 - 2015 IEEE International Symposium on Safety", Security," and Rescue Robotics"" ;3 ; 1.3413734853601782
+""2014 International Symposium on Software Testing and Analysis"," ISSTA 2014 - Proceedings"" ;13 ; 1.5437441298190928
+""Proceedings of the 2015 IEEE/ACM International Symposium on Code Generation and Optimization"," CGO 2015"" ;7 ; 1.422321743143744
+""International Archives of the Photogrammetry"," Remote Sensing and Spatial Information Sciences - ISPRS Archives"" ;37 ; 2.0294336765204877
+""Proceedings of the 26th International Workshop on Network and Operating Systems Support for Digital Audio and Video"," NOSSDAV 2016"" ;3 ; 1.3413734853601782
+""Computing in Civil and Building Engineering - Proceedings of the 2014 International Conference on Computing in Civil and Building Engineering"" ;8 ; 1.4425588075896356
+""DCC 2014 - Proceedings of the ACM SIGCOMM 2014 Workshop on Distributed Cloud Computing"" ;6 ; 1.4020846786978527
+""2014 IEEE 6th International Memory Workshop"," IMW 2014"" ;6 ; 1.4020846786978527
+""Proceedings - 3rd International Workshop on Software Engineering for Systems-of-Systems"," SESoS 2015"" ;2 ; 1.3211364209142868
+""2014 14th International Workshop on Acoustic Signal Enhancement"," IWAENC 2014"" ;10 ; 1.4830329364814185
+""2015 International Symposium on Software Testing and Analysis"," ISSTA 2015 - Proceedings"" ;11 ; 1.50327000092731
+""2015 IEEE 7th International Workshop on Managing Technical Debt"," MTD 2015 - Proceedings"" ;4 ; 1.3616105498060698
+""2014 IEEE International Conference on Communications"," ICC 2014"" ;23 ; 1.7461147742780074
+""IEEE Industry Application Society"," 52nd Annual Meeting: IAS 2016"" ;4 ; 1.3616105498060698
+""ICER 2015 - Proceedings of the 2015 ACM Conference on International Computing Education Research"" ;8 ; 1.4425588075896356
+""Proceedings - 2014 1st Workshop on Pattern Recognition Techniques for Indirect Immunofluorescence Images"," I3A Workshop 2014"" ;7 ; 1.422321743143744
+""2015 Joint Urban Remote Sensing Event"," JURSE 2015"" ;5 ; 1.3818476142519611
+""2014 11th Annual IEEE International Conference on Sensing", Communication, and Networking," SECON 2014"" ;9 ; 1.462795872035527
+""Proceedings - 10th International Symposium on Software Engineering for Adaptive and Self-Managing Systems"," SEAMS 2015"" ;1 ; 1.3008993564683953
+""Proceedings of WORKS 2014: The 9th Workshop on Workflows in Support of Large-Scale Science - held in conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;4 ; 1.3616105498060698
+""2015 18th International Conference on Intelligence in Next Generation Networks"," ICIN 2015"" ;9 ; 1.462795872035527
+""PEPM 2016 - Proceedings of the 2016 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation"," co-located with POPL 2016"" ;4 ; 1.3616105498060698
+""RecSys 2016 - Proceedings of the 10th ACM Conference on Recommender Systems"" ;9 ; 1.462795872035527
+""2015 IEEE Asian Solid-State Circuits Conference"," A-SSCC 2015 - Proceedings"" ;5 ; 1.3818476142519611
+""Congress on Computing in Civil Engineering"," Proceedings"" ;16 ; 1.6044553231567673
+""Proceedings of the 12th ACM/IEEE International Symposium on Code Generation and Optimization"," CGO 2014"" ;11 ; 1.50327000092731
+""2015 3rd International Workshop on Compressed Sensing Theory and its Applications to Radar", Sonar, and Remote Sensing," CoSeRa 2015"" ;1 ; 1.3008993564683953
+""Proceeding of IEEE International Symposium on a World of Wireless", Mobile and Multimedia Networks 2014," WoWMoM 2014"" ;12 ; 1.5235070653732015
+""Proceedings - International Conference on Pattern Recognition"" ;89 ; 3.0817610277068432
+""Proceedings of the 6th International Workshop in Performance Modeling", Benchmarking and Simulation of High Performance Computer Systems, PMBS 2015 - Held as part of ACM/IEEE Supercomputing 2015," SC 2015"" ;3 ; 1.3413734853601782
+""Proceedings of Co-HPC 2014: 1st International Workshop on Hardware-Software Co-Design for High Performance Computing - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;4 ; 1.3616105498060698
+""IEEE Workshop on Signal Processing Advances in Wireless Communications"," SPAWC"" ;6 ; 1.4020846786978527
+""Proceedings of the 2016 IEEE International Symposium on Mixed and Augmented Reality"," ISMAR 2016"" ;4 ; 1.3616105498060698
+""IPIN 2014 - 2014 International Conference on Indoor Positioning and Indoor Navigation"" ;3 ; 1.3413734853601782
+""2015 IEEE Optical Interconnects Conference"," OI 2015"" ;5 ; 1.3818476142519611
+""SIGMETRICS/ Performance 2016 - Proceedings of the SIGMETRICS/Performance Joint International Conference on Measurement and Modeling of Computer Science"" ;5 ; 1.3818476142519611
+""ISSTA 2016 - Proceedings of the 25th International Symposium on Software Testing and Analysis"" ;6 ; 1.4020846786978527
+""ASM 2015 - Proceedings of the 1st International Workshop on Affect and Sentiment in Multimedia"," co-located with ACM MM 2015"" ;4 ; 1.3616105498060698
+""2014 IFIP Networking Conference"," IFIP Networking 2014"" ;11 ; 1.50327000092731
+""IPSN 2014 - Proceedings of the 13th International Symposium on Information Processing in Sensor Networks (Part of CPS Week)"" ;12 ; 1.5235070653732015
+""Proceedings of the 2016 IEEE International Symposium on Workload Characterization"," IISWC 2016"" ;5 ; 1.3818476142519611
+""UIST 2014 - Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology"" ;20 ; 1.6854035809403332
+""IH and MMSec 2016 - Proceedings of the 2016 ACM Information Hiding and Multimedia Security Workshop"" ;3 ; 1.3413734853601782
+""Proceedings - CSERC 2014: Computer Science Education Research Conference"" ;2 ; 1.3211364209142868
+""2014 IEEE 22nd International Requirements Engineering Conference"," RE 2014 - Proceedings"" ;10 ; 1.4830329364814185
+""Physics of Reactors 2016"," PHYSOR 2016: Unifying Theory and Experiments in the 21st Century"" ;3 ; 1.3413734853601782
+""Proceedings - 4th International Workshop on Green and Sustainable Software"," GREENS 2015"" ;2 ; 1.3211364209142868
+""Eurographics Workshop on Urban Data Modelling and Visualisation"," UDMV 2014 - Proceedings"" ;3 ; 1.3413734853601782
+""Proceedings of the 10th International Conference on Network and Service Management"," CNSM 2014"" ;9 ; 1.462795872035527
+""Proceedings - 1st International Workshop on Complex Faults and Failures in Large Software Systems"," COUFLESS 2015"" ;4 ; 1.3616105498060698
+""2015 13th International Symposium on Modeling and Optimization in Mobile", Ad Hoc, and Wireless Networks," WiOpt 2015"" ;5 ; 1.3818476142519611
+""IEEE Conference on Intelligent Transportation Systems", Proceedings," ITSC"" ;57 ; 2.434174965438317
+""Proceedings of IEEE Workshop on Applications of Computer Vision"" ;30 ; 1.8877742253992476
+""Proceedings of the 14th ACM Workshop on Hot Topics in Networks"," HotNets-XIV 2015"" ;5 ; 1.3818476142519611
+""9th International Conference on Power Electronics - ECCE Asia: 'Green World with Power Electronics'"," ICPE 2015-ECCE Asia"" ;8 ; 1.4425588075896356
+""SIGCSE 2014 - Proceedings of the 45th ACM Technical Symposium on Computer Science Education"" ;13 ; 1.5437441298190928
+""2015 IEEE Conference on Standards for Communications and Networking"," CSCN 2015"" ;7 ; 1.422321743143744
+""COLING 2014 - 25th International Conference on Computational Linguistics"," Proceedings of COLING 2014: Technical Papers"" ;16 ; 1.6044553231567673
+""ACM SIGGRAPH 2014 Courses"," SIGGRAPH 2014"" ;6 ; 1.4020846786978527
+""2014 9th International Conference for Internet Technology and Secured Transactions"," ICITST 2014"" ;1 ; 1.3008993564683953
+""20th Asia and South Pacific Design Automation Conference"," ASP-DAC 2015"" ;10 ; 1.4830329364814185
+""2014 IEEE Conference on Communications and Network Security"," CNS 2014"" ;8 ; 1.4425588075896356
+""IEEE International Working Conference on Mining Software Repositories"" ;28 ; 1.8473000965074646
+""IEEE WoW 2015 - IEEE PELS Workshop on Emerging Technologies: Wireless Power"," Proceedings"" ;6 ; 1.4020846786978527
+""GECCO 2014 - Proceedings of the 2014 Genetic and Evolutionary Computation Conference"" ;14 ; 1.5639811942649842
+""Proceedings of the 14th International Symposium on Code Generation and Optimization"," CGO 2016"" ;6 ; 1.4020846786978527
+""SiRF 2014 - 2014 IEEE 14th Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems"" ;5 ; 1.3818476142519611
+""High-Performance Graphics 2014"," HPG 2014 - Proceedings"" ;5 ; 1.3818476142519611
+""2014 IEEE 3rd International Conference on Cloud Networking"," CloudNet 2014"" ;10 ; 1.4830329364814185
+""Society of Petroleum Engineers - SPE/CSUR Unconventional Resources Conference"" ;5 ; 1.3818476142519611
+""Proceedings - 2014 International Conference on Future Internet of Things and Cloud"," FiCloud 2014"" ;8 ; 1.4425588075896356
+""ICPE 2014 - Proceedings of the 5th ACM/SPEC International Conference on Performance Engineering"" ;10 ; 1.4830329364814185
+""SIGGRAPH Asia 2015 Technical Briefs"," SA 2015"" ;4 ; 1.3616105498060698
+""2016 ACM/IEEE 7th International Conference on Cyber-Physical Systems"," ICCPS 2016 - Proceedings"" ;6 ; 1.4020846786978527
+""CSCW 2015 - Proceedings of the 2015 ACM International Conference on Computer-Supported Cooperative Work and Social Computing"" ;20 ; 1.6854035809403332
+""2015 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems", MSCPES 2015 - Held as Part of CPS Week," Proceedings"" ;4 ; 1.3616105498060698
+""Physics of Reactors 2016"," PHYSOR 2016: Unifying Theory and Experiments in the 21st Century"" ;3 ; 1.3413734853601782
+""2014 International Conference on Privacy and Security in Mobile Systems"," PRISMS 2014 - Co-located with Global Wireless Summit"" ;3 ; 1.3413734853601782
+""2014 32nd IEEE International Conference on Computer Design"," ICCD 2014"" ;8 ; 1.4425588075896356
+""GIS: Proceedings of the ACM International Symposium on Advances in Geographic Information Systems"" ;45 ; 2.1913301920876194
+""11th IEEE International Conference on Advanced Video and Signal-Based Surveillance"," AVSS 2014"" ;10 ; 1.4830329364814185
+""L@S 2015 - 2nd ACM Conference on Learning at Scale"" ;9 ; 1.462795872035527
+""Proceedings of the International Conference on Supercomputing"" ;59 ; 2.4746490943300996
+""2nd International Workshop on Exploratory Search in Databases and the Web"," Explore DB 2015 - Proceedings"" ;2 ; 1.3211364209142868
+""Proceedings - 2015 3rd IEEE International Conference on Mobile Cloud Computing", Services, and Engineering," MobileCloud 2015"" ;8 ; 1.4425588075896356
+""IEEE SSCI 2014 - 2014 IEEE Symposium Series on Computational Intelligence - EALS 2014: 2014 IEEE Symposium on Evolving and Autonomous Learning Systems"," Proceedings"" ;5 ; 1.3818476142519611
+""IEEE PELS Workshop on Emerging Technologies: Wireless Power"," WoW 2016"" ;3 ; 1.3413734853601782
+""HiCoNS 2014 - Proceedings of the 3rd International Conference on High Confidence Networked Systems (Part of CPS Week)"" ;6 ; 1.4020846786978527
+""Proceedings - International Conference on Network Protocols"," ICNP"" ;53 ; 2.353226707654751
+""2016 IEEE Power and Energy Conference at Illinois"," PECI 2016"" ;6 ; 1.4020846786978527
+""2016 IEEE 23rd International Conference on Software Analysis", Evolution, and Reengineering," SANER 2016"" ;1 ; 1.3008993564683953
+""Proceedings - 2014 IEEE International Congress on Big Data"," BigData Congress 2014"" ;12 ; 1.5235070653732015
+""Australasian Conference on Robotics and Automation"," ACRA"" ;11 ; 1.50327000092731
+""Proceedings - 30th International Conference on Software Maintenance and Evolution"," ICSME 2014"" ;16 ; 1.6044553231567673
+""CoNEXT 2016 - Proceedings of the 12th International Conference on Emerging Networking EXperiments and Technologies"" ;5 ; 1.3818476142519611
+""2016 20th International Conference on Optical Network Design and Modeling"," ONDM 2016"" ;4 ; 1.3616105498060698
+""2014 International Conference on Optical Network Design and Modeling"," ONDM 2014"" ;9 ; 1.462795872035527
+""Proceedings of DISCS 2014: The 2014 International Workshop on Data-Intensive Scalable Computing Systems - Held in Conjuction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;3 ; 1.3413734853601782
+""IoV-VoI 2016 - Proceedings of the 1st MobiHoc International Workshop on Internet of Vehicles and Vehicles of Internet"" ;3 ; 1.3413734853601782
+""Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings"" ;60 ; 2.494886158775991
+""Proceedings of LLVM-HPC 2014: 2014 LLVM Compiler Infrastructure in HPC - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;1 ; 1.3008993564683953
+""Proceedings - 2013 Extreme Scaling Workshop"," XSW 2013"" ;4 ; 1.3616105498060698
+""2016 1st International Workshop on Sensing", Processing and Learning for Intelligent Machines," SPLINE 2016 - Proceedings"" ;4 ; 1.3616105498060698
+""2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society"," EMBC 2014"" ;13 ; 1.5437441298190928
+""MobiArch 2014 - Proceedings of the 9th ACM MobiCom Workshop on Mobility in the Evolving Internet Architecture"" ;5 ; 1.3818476142519611
+""Proceedings - IEEE International Conference on Multimedia and Expo"" ;38 ; 2.0496707409663792
+""Proceedings - 2014 IEEE International Conference on Web Services"," ICWS 2014"" ;11 ; 1.50327000092731
+""IPSN 2015 - Proceedings of the 14th International Symposium on Information Processing in Sensor Networks (Part of CPS Week)"" ;10 ; 1.4830329364814185
+""Proceedings - 2016 IEEE Symposium on Security and Privacy Workshops"," SPW 2016"" ;5 ; 1.3818476142519611
+""2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"," NAACL HLT 2016 - Proceedings of the Conference"" ;14 ; 1.5639811942649842
+""IEEE International Workshop on Integrated Power Packaging"," IWIPP 2015"" ;4 ; 1.3616105498060698
+""ITICSE 2014 - Proceedings of the 2014 Innovation and Technology in Computer Science Education Conference"" ;9 ; 1.462795872035527
+""Proceedings - Real-Time Systems Symposium"" ;71 ; 2.717493867680797
+""12th IEEE International Symposium on Safety", Security and Rescue Robotics," SSRR 2014 - Symposium Proceedings"" ;4 ; 1.3616105498060698
+""2014 IEEE International Conference on Image Processing"," ICIP 2014"" ;16 ; 1.6044553231567673
+""WMDD 2015 - Proceedings of the ACM Workshop on Multimodal Deception Detection"," co-located with ICMI 2015"" ;3 ; 1.3413734853601782
+""2016 IEEE 55th Conference on Decision and Control"," CDC 2016"" ;5 ; 1.3818476142519611
+""2014 IEEE International Conference on Intelligent Energy and Power Systems"," IEPS 2014 - Conference Proceedings"" ;6 ; 1.4020846786978527
+""Proceedings of the IEEE Sensor Array and Multichannel Signal Processing Workshop"" ;19 ; 1.6651665164944416
+""Proceedings - IEEE 7th International Conference on Software Testing", Verification and Validation," ICST 2014"" ;11 ; 1.50327000092731
+""HT 2015 - Proceedings of the 26th ACM Conference on Hypertext and Social Media"" ;6 ; 1.4020846786978527
+""EC 2016 - Proceedings of the 2016 ACM Conference on Economics and Computation"" ;5 ; 1.3818476142519611
+""SIAM Conference on Control and Its Applications 2015"" ;4 ; 1.3616105498060698
+""IEEE SSCI 2014: 2014 IEEE Symposium Series on Computational Intelligence - CIVTS 2014: 2014 IEEE Symposium on Computational Intelligence in Vehicles and Transportation Systems"," Proceedings"" ;5 ; 1.3818476142519611
+""IEEE International Symposium on Intelligent Control - Proceedings"" ;29 ; 1.867537160953356
+""IEEE NETSOFT 2016 - 2016 IEEE NetSoft Conference and Workshops: Software-Defined Infrastructure for Networks", Clouds," IoT and Services"" ;5 ; 1.3818476142519611
+""2016 IEEE 8th International Conference on Biometrics Theory", Applications and Systems," BTAS 2016"" ;5 ; 1.3818476142519611
+""2014 Underwater Communications and Networking"," UComms 2014"" ;7 ; 1.422321743143744
+""ICER 2016 - Proceedings of the 2016 ACM Conference on International Computing Education Research"" ;4 ; 1.3616105498060698
+""2014 IEEE 4th International Model-Driven Requirements Engineering Workshop"," MoDRE 2014 - Proceedings"" ;4 ; 1.3616105498060698
+""2015 IEEE 23rd International Requirements Engineering Conference"," RE 2015 - Proceedings"" ;8 ; 1.4425588075896356
+""ACM SIGGRAPH 2014 Emerging Technologies"," SIGGRAPH 2014"" ;7 ; 1.422321743143744
+""ISPASS 2016 - International Symposium on Performance Analysis of Systems and Software"" ;5 ; 1.3818476142519611
+""ACM/SIGDA International Symposium on Field Programmable Gate Arrays - FPGA"" ;55 ; 2.393700836546534
+""2014 International Conference on Power Signals Control and Computations"," EPSCICON 2014"" ;5 ; 1.3818476142519611
+""2015 17th European Conference on Power Electronics and Applications"," EPE-ECCE Europe 2015"" ;8 ; 1.4425588075896356
+""19th IEEE Symposium on Low-Power and High-Speed Chips"," IEEE COOL Chips 2016 - Proceedings"" ;3 ; 1.3413734853601782
+""2014 17th IEEE International Conference on Intelligent Transportation Systems"," ITSC 2014"" ;13 ; 1.5437441298190928
+""2014 IEEE Global Conference on Signal and Information Processing"," GlobalSIP 2014"" ;10 ; 1.4830329364814185
+""VEE 2014 - Proceedings of the 10th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments"" ;8 ; 1.4425588075896356
+""Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming"," PPOPP"" ;54 ; 2.373463772100642
+""WISCS 2016 - Proceedings of the 2016 ACM Workshop on Information Sharing and Collaborative Security"," co-located with CCS 2016"" ;3 ; 1.3413734853601782
+""2015 IEEE 6th International Symposium on Power Electronics for Distributed Generation Systems"," PEDG 2015"" ;6 ; 1.4020846786978527
+""2015 International Conference on Recent Advances in Internet of Things"," RIoT 2015"" ;6 ; 1.4020846786978527
+""Proceedings of CC 2016: The 25th International Conference on Compiler Construction"" ;4 ; 1.3616105498060698
+""Proceedings - 2014 IEEE/ACM 7th International Conference on Utility and Cloud Computing"," UCC 2014"" ;9 ; 1.462795872035527
+""ACM BCB 2014 - 5th ACM Conference on Bioinformatics", Computational Biology," and Health Informatics"" ;6 ; 1.4020846786978527
+""2015 North American Power Symposium"," NAPS 2015"" ;6 ; 1.4020846786978527
+""W4A 2014 - 11th Web for All Conference"" ;5 ; 1.3818476142519611
+""Proceedings of the 24th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video"," NOSSDAV 2014"" ;8 ; 1.4425588075896356
+""IEEE International Conference on Fuzzy Systems"" ;53 ; 2.353226707654751
+""WiMobCity 2014 - Proceedings of the 2014 ACM International Workshop on Wireless and Mobile Technologies for Smart Cities"," co-located with MobiHoc 2014"" ;4 ; 1.3616105498060698
+""2014 Software Evolution Week - IEEE Conference on Software Maintenance", Reengineering, and Reverse Engineering," CSMR-WCRE 2014 - Proceedings"" ;13 ; 1.5437441298190928
+""IH and MMSec 2015 - Proceedings of the 2015 ACM Workshop on Information Hiding and Multimedia Security"" ;4 ; 1.3616105498060698
+""Proceedings - 2015 IEEE International Symposium on Workload Characterization"," IISWC 2015"" ;6 ; 1.4020846786978527
+""Conference of Open Innovation Association"," FRUCT"" ;9 ; 1.462795872035527
+""2014 IEEE Conference on Control Applications"," CCA 2014"" ;9 ; 1.462795872035527
+""2014 International SPIN Symposium on Model Checking of Software"," SPIN 2014 - Proceedings"" ;5 ; 1.3818476142519611
+""MODULARITY 2016 - Proceedings of the 15th International Conference on Modularity"" ;3 ; 1.3413734853601782
+""Proceedings of the IEEE VLSI Test Symposium"" ;53 ; 2.353226707654751
+""International Geoscience and Remote Sensing Symposium (IGARSS)"" ;53 ; 2.353226707654751
+""Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference"" ;5 ; 1.3818476142519611
+""IEEE SSCI 2014 - 2014 IEEE Symposium Series on Computational Intelligence - ADPRL 2014: 2014 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning"," Proceedings"" ;4 ; 1.3616105498060698
+""Proceedings of The International Symposium on Multiple-Valued Logic"" ;24 ; 1.7663518387238988
+""ASME 2015 Internal Combustion Engine Division Fall Technical Conference"," ICEF 2015"" ;5 ; 1.3818476142519611
+""International Conference on Intelligent User Interfaces"," Proceedings IUI"" ;55 ; 2.393700836546534
+""International Congress on Advances in Nuclear Power Plants"," ICAPP 2016"" ;4 ; 1.3616105498060698
+""Proceedings - 2015 IEEE/ACM 15th International Symposium on Cluster", Cloud, and Grid Computing," CCGrid 2015"" ;10 ; 1.4830329364814185
+""SDN-NFV Security 2016 - Proceedings of the 2016 ACM International Workshop on Security in Software Defined Networks and Network Function Virtualization"," co-located with CODASPY 2016"" ;4 ; 1.3616105498060698
+""2015 IEEE International Workshop on Information Forensics and Security"," WIFS 2015 - Proceedings"" ;7 ; 1.422321743143744
+""Proceedings - 2016 4th IEEE International Conference on Mobile Cloud Computing", Services, and Engineering," MobileCloud 2016"" ;4 ; 1.3616105498060698
+""Proceedings - 2014 22nd Euromicro International Conference on Parallel", Distributed, and Network-Based Processing," PDP 2014"" ;10 ; 1.4830329364814185
+""Proceedings of the International Symposium on Superalloys"" ;2 ; 1.3211364209142868
+""2015 IEEE International Conference on Smart Grid Communications"," SmartGridComm 2015"" ;7 ; 1.422321743143744
+""Proceedings - 2015 International Conference on Future Internet of Things and Cloud", FiCloud 2015 and 2015 International Conference on Open and Big Data," OBD 2015"" ;10 ; 1.4830329364814185
+""Proceedings - 2014 IEEE 9th International Conference on Global Software Engineering"," ICGSE 2014"" ;6 ; 1.4020846786978527
+""Proceedings - 2nd IEEE International Conference on Mobile Cloud Computing", Services, and Engineering," MobileCloud 2014"" ;8 ; 1.4425588075896356
+""22nd International Conference on Program Comprehension"," ICPC 2014 - Proceedings"" ;12 ; 1.5235070653732015
+""PAWR 2014 - Proceedings: 2014 IEEE Topical Conference on Power Amplifiers for Wireless and Radio Applications"" ;5 ; 1.3818476142519611
+""Proceedings - International Conference on Tools with Artificial Intelligence"," ICTAI"" ;31 ; 1.9080112898451391
+""Proceedings - 2014 IEEE International Conference on Big Data"," IEEE Big Data 2014"" ;13 ; 1.5437441298190928
+""WISCS 2015 - Proceedings of the 2nd ACM Workshop on Information Sharing and Collaborative Security"," co-located with: CCS 2015"" ;4 ; 1.3616105498060698
+""ANCS 2015 - 11th 2015 ACM/IEEE Symposium on Architectures for Networking and Communications Systems"" ;7 ; 1.422321743143744
+""Proceedings - 3rd FME Workshop on Formal Methods in Software Engineering"," Formalise 2015"" ;3 ; 1.3413734853601782
+""2014 IEEE Wireless Communications and Networking Conference Workshops"," WCNCW 2014"" ;8 ; 1.4425588075896356
+""ICINCO 2016 - 13th International Conference on Informatics in Control", Automation and Robotics," Doctoral Consortium"" ;2 ; 1.3211364209142868
+""Proceedings of the 2015 IEEE 19th International Enterprise Distributed Object Computing Conference Workshops and Demonstrations"," EDOCW 2015"" ;4 ; 1.3616105498060698
+""2014 IEEE International Electric Vehicle Conference"," IEVC 2014"" ;7 ; 1.422321743143744
+""DTMBIO 2015 - Proceedings of the ACM 9th International Workshop on Data and Text Mining in Biomedical Informatics"," co-located with CIKM 2015"" ;2 ; 1.3211364209142868
+""2015 IEEE International Ultrasonics Symposium"," IUS 2015"" ;6 ; 1.4020846786978527
+""Proceedings of the Asia and South Pacific Design Automation Conference"," ASP-DAC"" ;52 ; 2.3329896432088595
+""Proceedings of the IEEE RAS and EMBS International Conference on Biomedical Robotics and Biomechatronics"" ;19 ; 1.6651665164944416
+""2015 ACM/IEEE 18th International Conference on Model Driven Engineering Languages and Systems"," MODELS 2015 - Proceedings"" ;7 ; 1.422321743143744
+""16th International Conference on Electronic Packaging Technology"," ICEPT 2015"" ;1 ; 1.3008993564683953
+""Procedia Computer Science"" ;34 ; 1.9687224831828134
+""Proceedings - 2015 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology"," WI-IAT 2015"" ;1 ; 1.3008993564683953
+""Proceedings of the 2014 Symposium on Symbolic-Numeric Computation"," SNC 2014"" ;3 ; 1.3413734853601782
+""CONCREEP 2015: Mechanics and Physics of Creep", Shrinkage, and Durability of Concrete and Concrete Structures - Proceedings of the 10th International Conference on Mechanics and Physics of Creep, Shrinkage," and Durability of Concrete and Concrete Structures"" ;3 ; 1.3413734853601782
+""2nd International Workshop on Graph Data Management Experiences and Systems"," GRADES 2014 - Co-located with SIGMOD/PODS 2014"" ;5 ; 1.3818476142519611
+""Proceedings - 2016 IEEE 24th International Requirements Engineering Conference"," RE 2016"" ;5 ; 1.3818476142519611
+""International IEEE/EMBS Conference on Neural Engineering"," NER"" ;18 ; 1.64492945204855
+""Proceedings of the International Joint Conference on Neural Networks"" ;55 ; 2.393700836546534
+""Proceedings - International Conference on Image Processing"," ICIP"" ;70 ; 2.6972568032349056
+""Proceedings of the International Workshop on Temporal Representation and Reasoning"" ;4 ; 1.3616105498060698
+""Proceedings of the 8th ACM/IEEE International Conference on Distributed Smart Cameras"," ICDSC 2014"" ;5 ; 1.3818476142519611
+""Eye Tracking Research and Applications Symposium (ETRA)"" ;36 ; 2.0091966120745965
+""IEEE Haptics Symposium"," HAPTICS"" ;10 ; 1.4830329364814185
+""Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems"," AAMAS"" ;41 ; 2.1103819343040535
+""Proceedings of the 2014 1st International Conference on 5G for Ubiquitous Connectivity"," 5GU 2014"" ;7 ; 1.422321743143744
+""IEEE SSCI 2014 - 2014 IEEE Symposium Series on Computational Intelligence - MCDM 2014: 2014 IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making"," Proceedings"" ;4 ; 1.3616105498060698
+""Conference on Human Factors in Computing Systems - Proceedings"" ;151 ; 4.336459023352114
+""IEEE Industry Application Society - 51st Annual Meeting", IAS 2015," Conference Record"" ;6 ; 1.4020846786978527
+""C2B(I)D 2015 - Proceedings of the 2015 ACM SIGCOMM Workshop on Crowdsourcing and Crowdsharing of Big (Internet) Data"," Part of SIGCOMM 2015"" ;2 ; 1.3211364209142868
+""Proceedings - Symposium on Computer Arithmetic"" ;30 ; 1.8877742253992476
+""2016 13th Annual IEEE International Conference on Sensing", Communication, and Networking," SECON 2016"" ;5 ; 1.3818476142519611
+""CAN 2016 - Proceedings of the 2016 ACM Workshop on Cloud-Assisted Networking"," co-located with CoNEXT 2016"" ;3 ; 1.3413734853601782
+""2014 IEEE International Symposium on Dynamic Spectrum Access Networks"," DYSPAN 2014"" ;12 ; 1.5235070653732015
+""IEEE Symposium on Large Data Analysis and Visualization 2014"," LDAV 2014 - Proceedings"" ;2 ; 1.3211364209142868
+""VEE 2015 - Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments"" ;4 ; 1.3616105498060698
+""2015 15th International Superconductive Electronics Conference"," ISEC 2015"" ;4 ; 1.3616105498060698
+""Proceedings - International Symposium on Software Reliability Engineering"," ISSRE"" ;46 ; 2.211567256533511
+""2016 IEEE 20th Workshop on Signal and Power Integrity"," SPI 2016 - Proceedings"" ;3 ; 1.3413734853601782
+""2016 13th International Workshop on Discrete Event Systems"," WODES 2016"" ;2 ; 1.3211364209142868
+""2015 IEEE 24th Conference on Electrical Performance of Electronic Packaging and Systems"," EPEPS 2015"" ;4 ; 1.3616105498060698
+""8th National and 5th International Conference on e-Learning and e-Teaching"," ICeLeT 2014"" ;2 ; 1.3211364209142868
+""Proceedings - 2016 Baltic Geodetic Congress (Geomatics)"," BGC Geomatics 2016"" ;5 ; 1.3818476142519611
+""Proceedings of 21st European Wireless Conference"," European Wireless 2015"" ;6 ; 1.4020846786978527
+""ACM International Conference Proceeding Series"" ;1 ; 1.3008993564683953
+""Proceedings of the International Conference on Parallel Processing Workshops"" ;42 ; 2.130618998749945
+""Proceedings - 11th IAPR International Workshop on Document Analysis Systems"," DAS 2014"" ;10 ; 1.4830329364814185
+""2015 IEEE Wireless Power Transfer Conference"," WPTC 2015"" ;6 ; 1.4020846786978527
+""BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built"" ;7 ; 1.422321743143744
+""Proceedings - 2014 8th IEEE/ACM International Symposium on Networks-on-Chip"," NoCS 2014"" ;6 ; 1.4020846786978527
+""Proceedings of the International FRUCT Conference on Intelligence", Social Media and Web," ISMW FRUCT 2016"" ;1 ; 1.3008993564683953
+""IEEE Workshop on Signal Processing Systems"," SiPS: Design and Implementation"" ;27 ; 1.8270630320615733
+""Proceedings - 40th Euromicro Conference Series on Software Engineering and Advanced Applications"," SEAA 2014"" ;8 ; 1.4425588075896356
+""14th Conference of the European Chapter of the Association for Computational Linguistics 2014"," EACL 2014"" ;14 ; 1.5639811942649842
+""Proceedings of IEEE International Symposium on High Assurance Systems Engineering"" ;20 ; 1.6854035809403332
+""2014 IEEE Green Energy and Systems Conference"," IGESC 2014"" ;3 ; 1.3413734853601782
+""2015 International Conference on IC Design and Technology"," ICICDT 2015"" ;3 ; 1.3413734853601782
+""Conference Record - Asilomar Conference on Signals"," Systems and Computers"" ;63 ; 2.555597352113666
+""Construction Research Congress 2016: Old and New Construction Technologies Converge in Historic San Juan - Proceedings of the 2016 Construction Research Congress"," CRC 2016"" ;3 ; 1.3413734853601782
+""Proceedings of the 33rd IEEE International Conference on Computer Design"," ICCD 2015"" ;7 ; 1.422321743143744
+""2014 12th International Symposium on Modeling and Optimization in Mobile", Ad Hoc, and Wireless Networks," WiOpt 2014"" ;8 ; 1.4425588075896356
+""SIGGRAPH Asia 2015 Courses"," SA 2015"" ;3 ; 1.3413734853601782
+""SiRF 2016 - 2016 IEEE 16th Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems"" ;3 ; 1.3413734853601782
+""Proceedings - 2016 Workshop on Fault Diagnosis and Tolerance in Cryptography"," FDTC 2016"" ;3 ; 1.3413734853601782
+""Proceedings - 2014 IEEE 22nd Annual Symposium on High-Performance Interconnects"," HOTI 2014"" ;5 ; 1.3818476142519611
+""ACM International Conference Proceeding Series"" ;5 ; 1.3818476142519611
+""WGP 2015 - Proceedings of the 11th ACM SIGPLAN Workshop on Generic Programming"," co-located with ICFP 2015"" ;2 ; 1.3211364209142868
+""Proceedings of the 8th ACM SIGSPATIAL International Workshop on Location-Based Social Networks"," LBSN 2015 - Held in Conjunction with ACM SIGSPATIAL 2015"" ;2 ; 1.3211364209142868
+""European Wireless Conference 2016"," EW 2016"" ;4 ; 1.3616105498060698
+""Proceedings of the 1st ACM SIGPATIAL PhD Workshop 2014", SIGSPATIAL PhD 2014 - In Conjunction with 22nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems," ACM SIGSPATIAL 2014"" ;2 ; 1.3211364209142868
+""IEEE Vehicular Networking Conference"," VNC"" ;18 ; 1.64492945204855
+""International Conference on Application-Specific Systems", Architectures and Processors," Proceedings"" ;30 ; 1.8877742253992476
+""2014 12th Annual Conference on Privacy", Security and Trust," PST 2014"" ;7 ; 1.422321743143744
+""DEBS 2016 - Proceedings of the 10th ACM International Conference on Distributed and Event-Based Systems"" ;5 ; 1.3818476142519611
+""Proceedings - 2nd IEEE Working Conference on Software Visualization"," VISSOFT 2014"" ;6 ; 1.4020846786978527
+""IEEE ISSNIP 2014 - 2014 IEEE 9th International Conference on Intelligent Sensors", Sensor Networks and Information Processing," Conference Proceedings"" ;9 ; 1.462795872035527
+""2014 7th International Workshop on Communication Technologies for Vehicles"," Nets4Cars-Fall 2014"" ;4 ; 1.3616105498060698
+""ANCS 2014 - 10th 2014 ACM/IEEE Symposium on Architectures for Networking and Communications Systems"" ;8 ; 1.4425588075896356
+""SIGGRAPH Asia 2014 Technical Briefs"," SA 2014"" ;5 ; 1.3818476142519611
+""Proceedings of the 18th International Symposium on Principles and Practice of Declarative Programming"," PPDP 2016"" ;2 ; 1.3211364209142868
+""2015 IEEE 12th International Conference on Wearable and Implantable Body Sensor Networks"," BSN 2015"" ;7 ; 1.422321743143744
+""2016 IEEE Global Communications Conference"," GLOBECOM 2016 - Proceedings"" ;7 ; 1.422321743143744
+""MSWiM 2016 - Proceedings of the 19th ACM International Conference on Modeling"," Analysis and Simulation of Wireless and Mobile Systems"" ;4 ; 1.3616105498060698
+""2014 4th Joint Workshop on Hands-Free Speech Communication and Microphone Arrays"," HSCMA 2014"" ;7 ; 1.422321743143744
+""Proceedings of the WoWMoM 2015: A World of Wireless Mobile and Multimedia Networks"" ;9 ; 1.462795872035527
+""IEEE Biomedical Circuits and Systems Conference: Engineering for Healthy Minds and Able Bodies"," BioCAS 2015 - Proceedings"" ;7 ; 1.422321743143744
+""COSN 2015 - Proceedings of the 2015 ACM Conference on Online Social Networks"" ;5 ; 1.3818476142519611
+""36th International Conference on Software Engineering"," ICSE Companion 2014 - Proceedings"" ;13 ; 1.5437441298190928
+""Proceedings of the 6th International Workshop on Programming Models and Applications for Multicores and Manycores"," PMAM 2015"" ;5 ; 1.3818476142519611
+""ANRW 2016 - Proceedings of the ACM"," IRTF and ISOC Applied Networking Research Workshop"" ;4 ; 1.3616105498060698
+""2015 European Conference on Networks and Communications"," EuCNC 2015"" ;9 ; 1.462795872035527
+""Proceedings - 20th ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games"," I3D 2016"" ;3 ; 1.3413734853601782
+""ISCRAM 2014 Conference Proceedings - 11th International Conference on Information Systems for Crisis Response and Management"" ;13 ; 1.5437441298190928
+""International Symposium on Turbo Codes and Iterative Information Processing"," ISTC"" ;7 ; 1.422321743143744
+""2015 IEEE 4th International Conference on Cloud Networking"," CloudNet 2015"" ;6 ; 1.4020846786978527
+""2014 IEEE International Symposium on Intelligent Control"," ISIC 2014"" ;5 ; 1.3818476142519611
+""LTA 2016 - Proceedings of the 1st Workshop on Lifelogging Tools and Applications"," co-located with ACM Multimedia 2016"" ;2 ; 1.3211364209142868
+""Proceedings of IEEE Symposium on Visual Languages and Human-Centric Computing"," VL/HCC"" ;10 ; 1.4830329364814185
+""2014", 8th International Conference on Signal Processing and Communication Systems," ICSPCS 2014 - Proceedings"" ;4 ; 1.3616105498060698
+""IEEE Radiation Effects Data Workshop"" ;3 ; 1.3413734853601782
+""2015 Global Symposium on Millimeter-Waves"," GSMM 2015"" ;4 ; 1.3616105498060698
+""Proceedings of HUST 2014: 1st International Workshop on HPC User Support Tools - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;3 ; 1.3413734853601782
+""Proceedings of the Annual Reliability and Maintainability Symposium"" ;35 ; 1.988959547628705
+""2014 IEEE High Performance Extreme Computing Conference"," HPEC 2014"" ;8 ; 1.4425588075896356
+""HotMobile 2016 - Proceedings of the 17th International Workshop on Mobile Computing Systems and Applications"" ;4 ; 1.3616105498060698
+""Proceedings - 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks"," DSN 2016"" ;6 ; 1.4020846786978527
+""2015 International Conference on Indoor Positioning and Indoor Navigation"," IPIN 2015"" ;9 ; 1.462795872035527
+""2014 IEEE International Conference on Communication Systems"," IEEE ICCS 2014"" ;8 ; 1.4425588075896356
+""Proceedings of the 2014 4th International Conference on Wireless Mobile Communication and Healthcare - Transforming Healthcare Through Innovations in Mobile and Wireless Technologies"," MOBIHEALTH 2014"" ;9 ; 1.462795872035527
+""Proceedings of E2SC 2014: 2nd International Workshop on Energy Efficient Supercomputing - Held in Conjunction with SC 2014: The International Conference for High Performance Computing", Networking," Storage and Analysis"" ;4 ; 1.3616105498060698
+""Proceedings - 11th International Symposium on Software Engineering for Adaptive and Self-Managing Systems"," SEAMS 2016"" ;5 ; 1.3818476142519611
+""Proceedings of the Symposium on Interactive 3D Graphics"" ;54 ; 2.373463772100642
+""Proceedings - IEEE 8th International Symposium on Service Oriented System Engineering"," SOSE 2014"" ;9 ; 1.462795872035527
+""Proceedings - 1st International Conference on Computational Intelligence and Networks"," CINE 2015"" ;5 ; 1.3818476142519611
+""Proceedings of the 8th Global WordNet Conference"," GWC 2016"" ;4 ; 1.3616105498060698
+""Proceedings - 2016 IEEE 30th International Parallel and Distributed Processing Symposium"," IPDPS 2016"" ;6 ; 1.4020846786978527
+""Proceedings - 2015 IEEE Workshop on Electrical Machines Design", Control and Diagnosis," WEMDCD 2015"" ;6 ; 1.4020846786978527
+""2014 48th Annual Conference on Information Sciences and Systems"," CISS 2014"" ;11 ; 1.50327000092731
+""Proceedings of the Annual International Conference on Mobile Computing and Networking"," MOBICOM"" ;3 ; 1.3413734853601782
+""2014 IEEE 19th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks"," CAMAD 2014"" ;4 ; 1.3616105498060698
+""2015 International Topical Meeting on Microwave Photonics"," MWP 2015 - Conference Proceedings"" ;6 ; 1.4020846786978527
+""Proceedings - IEEE International Conference on Distributed Computing in Sensor Systems"," DCOSS 2014"" ;8 ; 1.4425588075896356
+""Proceedings - 13th Working Conference on Mining Software Repositories"," MSR 2016"" ;6 ; 1.4020846786978527
+""2015 Colour and Visual Computing Symposium"," CVCS 2015"" ;4 ; 1.3616105498060698
+""Proceedings of the 10th ACM Workshop on Programming Languages and Analysis for Security"," PLAS 2015"" ;2 ; 1.3211364209142868
+""3rd International Workshop on Biometrics and Forensics"," IWBF 2015"" ;5 ; 1.3818476142519611
+""Proceedings - International Symposium on Quality Electronic Design"," ISQED"" ;28 ; 1.8473000965074646
+""4th International Conference on Innovative Computing Technology", INTECH 2014 and 3rd International Conference on Future Generation Communication Technologies," FGCT 2014"" ;5 ; 1.3818476142519611
+""WGP 2014 - Proceedings of the 2014 ACM SIGPLAN Workshop on Generic Programming"" ;3 ; 1.3413734853601782
+""Proceedings of the 15th Conference on Formal Methods in Computer-Aided Design"," FMCAD 2015"" ;5 ; 1.3818476142519611
+""Proceedings of ACM Symposium on Access Control Models and Technologies"," SACMAT"" ;42 ; 2.130618998749945
+""Society of Petroleum Engineers - SPE Canada Heavy Oil Technical Conference 2015"," CHOC 2015"" ;6 ; 1.4020846786978527
+""Proceedings of SPIE - The International Society for Optical Engineering"" ;139 ; 4.093614250001416
+""IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society"" ;2 ; 1.3211364209142868
+""Proceedings of the 2014 International Conference on High Performance Computing and Simulation"," HPCS 2014"" ;9 ; 1.462795872035527
+""Proceedings - 2015 Workshop on Fault Diagnosis and Tolerance in Cryptography"," FDTC 2015"" ;4 ; 1.3616105498060698
+""23rd European Symposium on Artificial Neural Networks", Computational Intelligence and Machine Learning," ESANN 2015 - Proceedings"" ;1 ; 1.3008993564683953
+""VLCS 2014 - Proceedings of the 1st ACM MobiCom Workshop on Visible Light Communication Systems"" ;5 ; 1.3818476142519611
+""2014 IEEE International Conference on Pervasive Computing and Communication Workshops"," PERCOM WORKSHOPS 2014"" ;12 ; 1.5235070653732015
+""International Conference on Simulation of Semiconductor Processes and Devices"," SISPAD"" ;21 ; 1.7056406453862245
+""Record - IEEE PLANS"," Position Location and Navigation Symposium"" ;38 ; 2.0496707409663792
+""IEEE SSCI 2014 - 2014 IEEE Symposium Series on Computational Intelligence - ADPRL 2014: 2014 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning"," Proceedings"" ;5 ; 1.3818476142519611
+""12th International Conference on Autonomous Agents and Multiagent Systems 2013"," AAMAS 2013"" ;22 ; 1.7258777098321159
+""2016 13th IEEE International Conference on Advanced Video and Signal Based Surveillance"," AVSS 2016"" ;4 ; 1.3616105498060698
+""Proceedings - 2015 9th International Conference on Compatibility and Power Electronics"," CPE 2015"" ;6 ; 1.4020846786978527
+""Proceedings of the 10th International Conference on Web and Social Media"," ICWSM 2016"" ;7 ; 1.422321743143744
+""eCrime Researchers Summit"," eCrime"" ;6 ; 1.4020846786978527
+""ICER 2014 - Proceedings of the 10th Annual International Conference on International Computing Education Research"" ;8 ; 1.4425588075896356
+""Proceedings of the European Conference on Synthetic Aperture Radar"," EUSAR"" ;16 ; 1.6044553231567673
+""Proceedings - Graphics Interface"" ;48 ; 2.2520413854252936
+""2015 International Conference on Hardware/Software Codesign and System Synthesis"," CODES+ISSS 2015"" ;6 ; 1.4020846786978527
+""Proceedings - Motion in Games 2016: 9th International Conference on Motion in Games"," MIG 2016"" ;2 ; 1.3211364209142868
+""2014 IEEE 4th International Workshop on Empirical Requirements Engineering"," EmpiRE 2014 - Proceedings"" ;4 ; 1.3616105498060698
+""2014 IEEE Global Conference on Signal and Information Processing"," GlobalSIP 2014"" ;6 ; 1.4020846786978527
+""Proceedings of the International Joint Conference on Neural Networks"" ;5 ; 1.3818476142519611
+""2015 12th Annual IEEE International Conference on Sensing", Communication, and Networking - Workshops," SECON Workshops 2015"" ;3 ; 1.3413734853601782
+""Electronic Proceedings in Theoretical Computer Science"," EPTCS"" ;13 ; 1.5437441298190928
+""Proceedings - 2014 International Workshop on Pattern Recognition in Neuroimaging"," PRNI 2014"" ;4 ; 1.3616105498060698
+""IEEE SSCI 2014 - 2014 IEEE Symposium Series on Computational Intelligence - SIS 2014: 2014 IEEE Symposium on Swarm Intelligence"," Proceedings"" ;5 ; 1.3818476142519611
+""International Symposium on Empirical Software Engineering and Measurement"" ;19 ; 1.6651665164944416
+""HuEvent 2015 - Proceedings of the 2nd International Workshop on Human-Centered Event Understanding from Multimedia"," co-located with MM 2015"" ;1 ; 1.3008993564683953
+""2015 IEEE Conference on Control and Applications"," CCA 2015 - Proceedings"" ;6 ; 1.4020846786978527
+""International Topical Meeting on Nuclear Reactor Thermal Hydraulics 2015"," NURETH 2015"" ;4 ; 1.3616105498060698
+""CAS-CERN Accelerator School: Superconductivity for Accelerators - Proceedings"" ;2 ; 1.3211364209142868
+""Proceedings - 2015 IEEE 23rd Annual Symposium on High-Performance Interconnects"," HOTI 2015"" ;6 ; 1.4020846786978527
+""2015 IEEE 22nd International Conference on Software Analysis", Evolution, and Reengineering," SANER 2015 - Proceedings"" ;9 ; 1.462795872035527
+""2016 IEEE International Conference on Multimedia and Expo Workshop"," ICMEW 2016"" ;6 ; 1.4020846786978527
+""SRIF 2014 - Proceedings of the ACM SIGCOMM 2014 Workshop on Software Radio Implementation Forum"" ;3 ; 1.3413734853601782
+""4th International Workshop on the Twin Peaks of Requirements and Architecture"," TwinPeaks 2014 - Proceedings"" ;2 ; 1.3211364209142868
+""1st IEEE International Symposium on Inertial Sensors and Systems"," ISISS 2014 - Proceedings"" ;7 ; 1.422321743143744
+""Society of Petroleum Engineers - Unconventional Resources Technology Conference"," URTeC 2015"" ;7 ; 1.422321743143744
+""IWSPA 2016 - Proceedings of the 2016 ACM International Workshop on Security and Privacy Analytics"," co-located with CODASPY 2016"" ;4 ; 1.3616105498060698
+""Proceedings - IEEE 7th International Conference on Service-Oriented Computing and Applications"," SOCA 2014"" ;6 ; 1.4020846786978527
+""American Helicopter Society International - 6th AHS International Specialists' Meeting on Unmanned Rotorcraft System 2015: Platform Design", Autonomy," Operator Workload Reduction and Network Centric Operations"" ;3 ; 1.3413734853601782
+""ASME 2015 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems", InterPACK 2015, collocated with the ASME 2015 13th International Conference on Nanochannels, Microchannels," and Minichannels"" ;1 ; 1.3008993564683953
+""Proceedings: AIMC 2015 - Automated Incident Management in Cloud", 1st International Workshop," in conjunction with EuroSYS 2015"" ;2 ; 1.3211364209142868
+""Proceedings of the 7th International Workshop on Programming Models and Applications for Multicores and Manycores"," PMAM 2016"" ;2 ; 1.3211364209142868
+""Proceedings - 2015 International Workshop on Pattern Recognition in NeuroImaging"," PRNI 2015"" ;3 ; 1.3413734853601782
+""2014 IEEE RFID Technology and Applications Conference"," RFID-TA 2014"" ;8 ; 1.4425588075896356
+""Proceedings of the ASME Turbo Expo"" ;5 ; 1.3818476142519611
+""WOSP-C 2015 - Proceedings of the 2015 ACM/SPEC Workshop on Challenges in Performance Methods for Software Development"," in Conjunction with ICPE 2015"" ;3 ; 1.3413734853601782
+""Proceedings - 2015 IEEE International Conference on Services Computing"," SCC 2015"" ;7 ; 1.422321743143744
+""IEEE Conference on Technologies for Practical Robot Applications"," TePRA"" ;9 ; 1.462795872035527
+""2016 IEEE Conference on Standards for Communications and Networking"," CSCN 2016"" ;3 ; 1.3413734853601782
+""ACM/IEEE 6th International Conference on Cyber-Physical Systems"," ICCPS 2015"" ;8 ; 1.4425588075896356
+""2014 International Conference on Digital Image Computing: Techniques and Applications"," DICTA 2014"" ;6 ; 1.4020846786978527
+""Proceedings - IEEE International Enterprise Distributed Object Computing Workshop"," EDOCW"" ;8 ; 1.4425588075896356
+""2014 IEEE Conference on Visual Analytics Science and Technology"," VAST 2014 - Proceedings"" ;9 ; 1.462795872035527
+""IEEE Vehicular Technology Conference"" ;100 ; 3.304368736611649
+""EUROPEC 2015"" ;6 ; 1.4020846786978527
+""2014 Federated Conference on Computer Science and Information Systems"," FedCSIS 2014"" ;11 ; 1.50327000092731
