@@ -4,4 +4,4 @@ We are using 80% of the data (H-Index and Impact Factor of the journals) to dete
 
 here, I have cleaned the data myself downloaded from different sites and used it to determine the regression line.
 
-my problem that I face here is that both H-Index and Impact Factor is not available on same site; so I have to download it from different sites and merge it.
+main problem that I face here is that both H-Index and Impact Factor is not available on same site; so I have to download it from different sites and merge it.
